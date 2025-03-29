@@ -1,6 +1,4 @@
-# Gabriel Furtado
-🔍 Buscando novas desafios na análise de dados!
-
+# Data Scientist
 📍 [LinkedIn](https//www.linkedin.com/in/gabriel-furtado30)
 📂 Repositórios: 4
 
