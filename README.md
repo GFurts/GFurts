@@ -2,10 +2,10 @@
 📍 [LinkedIn](https//www.linkedin.com/in/gabriel-furtado30)
 
 ## Sobre mim
-- 🎓 Graduado em Ciência de Dados pela Mackenzie
-- 🎓 Graduado em Administração pela Unip
-- 🎓 Cursando pós graduação de Data Analytics pela FIAP
-- 🚀 Desenvolvendo projetos de ciência de dados
+- 🎓 Graduado em Ciência de Dados pela Mackenzie.
+- 🎓 Graduado em Administração pela Unip.
+- 🎓 Cursando pós graduação de Data Analytics pela FIAP.
+- 🚀 Desenvolvendo projetos de ciência de dados.
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
