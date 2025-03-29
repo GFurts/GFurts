@@ -14,4 +14,5 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=GFurts&show_icons=true&theme=dark)
+
