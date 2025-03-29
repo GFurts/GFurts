@@ -1,6 +1,5 @@
 # Data Scientist
 📍 [LinkedIn](https//www.linkedin.com/in/gabriel-furtado30)
-📂 Repositórios: 4
 
 ## Sobre mim
 - 🎓 Graduado em Ciência de Dados pela Mackenzie
