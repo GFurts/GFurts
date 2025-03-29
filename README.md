@@ -5,7 +5,7 @@
 - 🎓 Graduado em Ciência de Dados pela Mackenzie.
 - 🎓 Graduado em Administração pela Unip.
 - 🎓 Cursando Pós Graduação em Data Analytics pela FIAP.
-- 🚀 Desenvolvendo projetos de ciência de dados.
+- 🚀 Desenvolvendo Projetos de Ciência e Análise de Dados.
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
