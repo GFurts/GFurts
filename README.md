@@ -4,7 +4,7 @@
 ## Sobre mim
 - 🎓 Graduado em Ciência de Dados pela Mackenzie.
 - 🎓 Graduado em Administração pela Unip.
-- 🎓 Cursando pós graduação de Data Analytics pela FIAP.
+- 🎓 Cursando Pós Graduação em Data Analytics pela FIAP.
 - 🚀 Desenvolvendo projetos de ciência de dados.
 
 ## Tecnologias
