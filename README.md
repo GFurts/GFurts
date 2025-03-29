@@ -16,5 +16,9 @@
 
 
 ## 📊 Estatísticas
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=GFurts&show_icons=true&theme=dark)
+<div align="center">
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gfurts&show_icons=true&theme=dark&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gfurts&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gfurts&theme=dark&hide_border=true)
+</div>
 
