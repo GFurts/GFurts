@@ -8,10 +8,8 @@
 - 🚀 Desenvolvendo Projetos de Ciência e Análise de Dados.
 
 ## Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📊 Estatísticas
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=GFurts&show_icons=true&theme=dark)
