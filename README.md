@@ -1,16 +1,19 @@
-### Hi there 👋
+# Gabriel Furtado
+🔍 Buscando novas desafios na análise de dados!
 
-<!--
-**GFurts/GFurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 [LinkedIn](https//www.linkedin.com/in/gabriel-furtado30)
+📂 Repositórios: 4
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Graduado em Ciência de Dados pela Mackenzie
+- 🎓 Graduado em Administração pela Unip
+- 🎓 Cursando pós graduação de Data Analytics pela FIAP
+- 🚀 Desenvolvendo projetos de ciência de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
