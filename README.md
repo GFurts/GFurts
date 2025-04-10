@@ -1,5 +1,5 @@
 # Welcome To My Github!
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://github.com/GFurts/GFurts/blob/main/Banner_Perfil.png?raw=true" alt="Gfurts Banner" style="width: 50%;" />
 </div>
 
