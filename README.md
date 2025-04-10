@@ -1,11 +1,12 @@
-# Data Scientist
-📍[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-furtado30)
+# Welcome to my profile!
+<img src="https://github.com/GFurts/GFurts/blob/main/Banner_Perfil.png?raw=true" alt="Gfurts Banner" style="width: 100%;" />
 
 # About Me
 - 🎓 Graduated in Data Science from Mackenzie.
 - 🎓 Graduated in Business Administration from Unip.
 - 🎓 Pursuing a Postgraduate Degree in Data Analytics at FIAP.
 - 🚀 Developing Data Science and Analytics Projects.
+- 📍[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-furtado30)
 
 # Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
