@@ -1,5 +1,8 @@
 # Welcome To My Github!
-<img src="https://github.com/GFurts/GFurts/blob/main/Banner.jpeg?raw=true" alt="Gfurts Banner" style="width: 100%; height: 300px;" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://github.com/GFurts/GFurts/blob/main/Banner.jpeg?raw=true" alt="Gfurts Banner" />
+</div>
+
 
 # About Me
 - 🎓 Graduated in Data Science from Mackenzie.
