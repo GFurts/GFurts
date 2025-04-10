@@ -1,5 +1,7 @@
 # Welcome to my profile!
-<img src="https://github.com/GFurts/GFurts/blob/main/Banner_Perfil.png?raw=true" alt="Gfurts Banner" style="width: 50%;" />
+<p align="center">
+  <img src="https://github.com/GFurts/GFurts/blob/main/Banner_Perfil.png?raw=true" alt="Gfurts Banner" style="width: 100%; max-width: 1000px; height: auto;" />
+</p>
 
 # About Me
 - 🎓 Graduated in Data Science from Mackenzie.
