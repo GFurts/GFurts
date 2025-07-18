@@ -42,9 +42,9 @@ Modelo para prever se o IBOVESPA fechará em alta ou baixa no dia seguinte com b
 
 ## 🌐 Contato
 
-- 📧 Email: seu-email@email.com (adicione aqui se quiser)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
-- 💻 [Portfólio](https://github.com/GFurts) (este perfil mesmo!)
+- 📧 Email: gabriel.g.furtado30@gmail.com 
+- 💼 [LinkedIn](www.linkedin.com/in/gabriel-furtado30)
+- 💻 [Portfólio](https://github.com/GFurts) 
 
 ---
 
