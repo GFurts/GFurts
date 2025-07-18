@@ -10,7 +10,7 @@
 ## 🧠 Sobre mim
 
 🎓 Formado em Ciência de Dados (Mackenzie) e Administração (UNIP).
-🎓 Pós-graduando em Data Analytics pela FIAP.  
+📚  Pós-graduando em Data Analytics pela FIAP.  
 🚀 Participando do Tech Challenge da POSTECH (Fase 2) com foco em previsão do IBOVESPA usando Machine Learning.  
 💡 Sempre buscando transformar dados em decisões inteligentes e automações práticas.
 
