@@ -9,10 +9,11 @@
 
 ## 🧠 Sobre mim
 
-🎓 Formado em Ciência de Dados (Mackenzie) e Administração (UNIP)  
-📚 Pós-graduando em Data Analytics pela FIAP  
-🚀 Participando do Tech Challenge da POSTECH (Fase 2), com foco em previsão do IBOVESPA usando Machine Learning  
-💡 Buscando transformar dados em decisões inteligentes e automações práticas
+🎓 Formado em Ciência de Dados (Mackenzie) e Administração (UNIP).
+🎓 Pós-graduando em Data Analytics pela FIAP.  
+🚀 Participando do Tech Challenge da POSTECH (Fase 2) com foco em previsão do IBOVESPA usando Machine Learning.  
+💡 Sempre buscando transformar dados em decisões inteligentes e automações práticas.
+
 ---
 
 ## ⚙️ Habilidades
@@ -42,11 +43,10 @@ Modelo para prever se o IBOVESPA fechará em alta ou baixa no dia seguinte com b
 
 ## 🌐 Contato
 
-- 📧 Email: gabriel.g.furtado30@gmail.com 
+- 📧 Email: gabriel.g.furtado30@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/gabriel-furtado30)
 - 💻 [Portfólio](https://github.com/GFurts) 
 
 ---
 
 ⭐ Se você curtir algum projeto, sinta-se à vontade para dar uma estrela ou contribuir!
-
