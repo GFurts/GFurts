@@ -1,43 +1,48 @@
 <h1 align="center">Olá, eu sou o Gabriel 👋</h1>
 
 <p align="center">
-  <strong>Cientista de Dados em formação</strong><br/>
-  Apaixonado por dados, aprendizado de máquina e aplicações reais com impacto.
+  <strong>Foco em Data Science e Machine Learning</strong><br/>
+  Séries temporais, análise de dados e aplicações práticas para tomada de decisão.
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Formado em Ciência de Dados (Mackenzie) e Administração (UNIP).  
-📚  Pós-graduando em Data Analytics pela FIAP.  
-🚀 Participando do Tech Challenge da POSTECH (Fase 2) com foco em previsão do IBOVESPA usando Machine Learning.  
-💡 Sempre buscando transformar dados em decisões inteligentes e automações práticas.
+- 🎓 Formado em Ciência de Dados (Mackenzie) e Administração (UNIP)  
+- 📊 Pós-graduando em Data Analytics – FIAP  
+- 📈 Experiência acadêmica com Machine Learning e Séries Temporais (Tech Challenge – POSTECH / FIAP)  
+- 🚀 Interesse em oportunidades como **Data Scientist Júnior** e **ML Engineer Júnior**
 
 ---
 
-## ⚙️ Habilidades
+## ⚙️ Habilidades Técnicas
 
-- **Linguagens**: Python, SQL
-- **Machine Learning**: scikit-learn, XGBoost, LightGBM
-- **Visualização de Dados**: Seaborn, Matplotlib, Plotly
-- **Engenharia de Dados**: Pandas, Numpy, Feature Engineering
-- **Modelos de Séries Temporais**: ARIMA, Prophet
-- **Ferramentas**: Git, GitHub, Jupyter Notebook
-- **Outros**: Streamlit, APIs, Web Scraping
+**Linguagens**  
+- Python, SQL
+
+**Machine Learning**  
+- Scikit-learn, XGBoost, LightGBM  
+- Validação temporal, feature engineering
+
+**Dados e Análise**  
+- Pandas, NumPy, EDA
+
+**Visualização**  
+- Matplotlib, Seaborn, Plotly
+
+**Ferramentas**  
+- Git, GitHub, Jupyter Notebook, Streamlit
+
+**Outros**  
+- Consumo de APIs, Web Scraping
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos
 
-### 🔹 [Previsão do IBOVESPA com Machine Learning](https://github.com/GFurts/postech-ibovespa-ml)
-Modelo para prever se o IBOVESPA fechará em alta ou baixa no dia seguinte com base em dados históricos. Aplicação de EDA, feature engineering e avaliação de modelos como Logistic Regression e Random Forest.
-
-### 🔹 [Análise Exploratória de Acidentes no Brasil](#)
-(Em desenvolvimento) - Projeto com dados públicos para identificar padrões geográficos e temporais de acidentes. Uso de visualizações e mapas interativos.
-
-### 🔹 [Recomendador de Jogos com NLP e Streamlit](#)
-(Em breve) - Sistema de recomendação baseado em descrição de jogos e preferências de usuários. Interface interativa com Streamlit.
+🚧 Atualmente desenvolvendo projetos de Data Science e Machine Learning, incluindo participação em Datathon e desafios acadêmicos.  
+Esta seção será atualizada com estudos de caso completos ao longo de 2026.
 
 ---
 
