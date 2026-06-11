@@ -25,6 +25,7 @@ Graduado em Ciência de Dados (Mackenzie) e Administração (UNIP). Pós-graduad
 | Projeto | Descrição | Stack | Deploy |
 |---|---|---|---|
 | [recsys-retailrocket](https://github.com/GFurts/recsys-retailrocket) | Sistema de recomendação de produtos para e-commerce — MLP com embeddings PyTorch, pipeline DVC, MLflow | PyTorch · DVC · MLflow · Docker · FastAPI | 🟢 [Live](https://recsys-retailrocket.onrender.com) |
+| [educational-risk-prediction](https://github.com/GFurts/educational-risk-prediction) | Previsão de risco educacional para ONG Passos Mágicos — XGBoost, EDA, dashboard Streamlit | Python · XGBoost · Streamlit · scikit-learn | [🟢 Live](https://educational-risk-prediction.streamlit.app) |
 | [Churn Prediction ML](https://github.com/GFurts/Churn-Prediction-ML) | Pipeline end-to-end de previsão de churn em telecom — EDA, MLP PyTorch, API de inferência | PyTorch · FastAPI · MLflow · pytest | [🟢 Live](https://churn-prediction-ml-e4f1.onrender.com/docs) |
 
 ---
