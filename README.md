@@ -11,9 +11,14 @@ Graduado em Ciência de Dados (Mackenzie) e Administração (UNIP). Pós-graduad
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -24,6 +29,7 @@ Graduado em Ciência de Dados (Mackenzie) e Administração (UNIP). Pós-graduad
 
 | Projeto | Descrição | Stack | Deploy |
 |---|---|---|---|
+| [medical-triage-mlops](https://github.com/GFurts/medical-triage-mlops) | Triagem de textos médicos em 5 áreas clínicas com nível de urgência — retreino automático com Airflow, ONNX (12× mais rápido), monitoramento com Prometheus/Grafana e CI | scikit-learn · ONNX · FastAPI · Airflow · Docker · Prometheus · Grafana · GitHub Actions | [🟢 Live](https://gabriel-furtado.vercel.app/triage.html) |
 | [recsys-retailrocket](https://github.com/GFurts/recsys-retailrocket) | Sistema de recomendação de produtos para e-commerce — MLP com embeddings PyTorch, pipeline DVC, MLflow | PyTorch · DVC · MLflow · Docker · FastAPI | 🟢 [Live](https://recsys-retailrocket.onrender.com/docs) |
 | [educational-risk-prediction](https://github.com/GFurts/educational-risk-prediction) | Previsão de risco educacional para ONG Passos Mágicos — XGBoost, EDA, dashboard Streamlit | Python · XGBoost · Streamlit · scikit-learn | [🟢 Live](https://educational-risk-prediction.streamlit.app) |
 | [Churn Prediction ML](https://github.com/GFurts/Churn-Prediction-ML) | Pipeline end-to-end de previsão de churn em telecom — EDA, MLP PyTorch, API de inferência | PyTorch · FastAPI · MLflow · pytest | [🟢 Live](https://churn-prediction-ml-e4f1.onrender.com/docs) |
@@ -34,4 +40,3 @@ Graduado em Ciência de Dados (Mackenzie) e Administração (UNIP). Pós-graduad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--furtado30-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-furtado30)
 [![Email](https://img.shields.io/badge/Email-gabriel.g.furtado30@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel.g.furtado30@gmail.com)
-
